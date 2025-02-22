@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.ota {
+display: flex;
+/* bu kod x o'qi boylab narsalarni joylashtiradi */
+justify-content:;  
+/* Bu kod y o'qi bo'ylab elementlarni joylashtiradi */
+align-items:;
+/* bu kod elementlarni ustun va qator qiladi */
+flex-direction: column-reverse;
+background-color: orange;
+height: 800px;
+}
+
+
+.bola{
+    width: 200px;
+    height:  200px;
+    background-color: black;
+    margin: 20px;
+}
+
+.one{
+    background-color: green;
+}
+
+.two{
+    background-color: yellow;
+}
+
+
+.three{
+    background-color: red;
+}
